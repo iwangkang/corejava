@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>me.wangkang.corejava</groupId>
-  <artifactId>amqp-client-example</artifactId>
+  <artifactId>aop-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>amqp-client-example</name>
+  <name>aop-example</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -21,11 +21,5 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/com.rabbitmq/amqp-client -->
-	<dependency>
-	    <groupId>com.rabbitmq</groupId>
-	    <artifactId>amqp-client</artifactId>
-	    <version>4.2.0</version>
-	</dependency>
   </dependencies>
 </project>
